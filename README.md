@@ -5,5 +5,6 @@ This subproject is used to transfer existing certificate in Repo-ng to NDNS. The
    will be removed and the latest version of the record from names.dat will be inserted
 
 Author:
-    [Xiaoke Jiang](http:://netarchlab.tsinghua.edu.cn/~shock/)
-    [Alexander Afanasyev](http://lasr.cs.ucla.edu/afanasyev/index.html)
+  -  [Xiaoke Jiang](http:://netarchlab.tsinghua.edu.cn/~shock/)
+
+  - [Alexander Afanasyev](http://lasr.cs.ucla.edu/afanasyev/index.html)
