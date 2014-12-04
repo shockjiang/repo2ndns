@@ -6,3 +6,4 @@ This subproject is used to transfer existing certificate in Repo-ng to NDNS. The
 
 Author:
     [Xiaoke Jiang](http:://netarchlab.tsinghua.edu.cn/~shock/)
+    [Alexander Afanasyev](http://lasr.cs.ucla.edu/afanasyev/index.html)
